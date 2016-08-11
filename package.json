@@ -1,5 +1,6 @@
 {
   "name": "lazy-photo-grid",
+  "homepage": "http://susutou.github.io/lazy-photo-grid",
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
